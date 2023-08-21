@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UI MAD</string>
+    <string name="logo_worklk">Logo WorkLK</string>
+    <string name="setup_page_2">Setup Page 2</string>
+
+
+    <string name="skip">Skip</string>
+    <string name="simplify_your_job_search">Simplify your job search</string>
+    <string name="setuppage1_txt2">Find your perfect job match from a vast selection of career opportunities.</string>
+    <string name="next">Next</string>
+    <string name="_01_03">01/03</string>
+
+    <string name="hired_in_a_dream_company">Hired in a dream company</string>
+    <string name="setuppage2_ins">Get a job at your dream company very easily without confusing</string>
+    <string name="_02_03">02/03</string>
+    <string name="_03_03">03/03</string>
+    <string name="achieve_your_dream_job_with_us">Achieve your dream job with us</string>
+    <string name="the_ultimate_job_search_platform_for_sri_lankan_job_seekers">The ultimate job search platform for Sri Lankan job seekers</string>
+    <string name="get_started">Get Started</string>
+    <string name="continue_as">Continue as</string>
+    <string name="find_your_dream_job_and_build_your_career">Find your dream job and build your career</string>
+    <string name="continuetxtpg5">Continue</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="send">Send</string>
+    <string name="enter_your_email_and_we_will_send_you_instruction_on_how_to_reset_it">Enter your email and we will send you instruction on how to reset it.</string>
+    <string name="email">Email</string>
+    <string name="we_ve_sent_your_verification_code_to_testing_gmail_com">We\'ve sent your verification code to testing@gmail.com</string>
+    <string name="verifying_email">Verifying Email</string>
+    <string name="enter_code">Enter code</string>
+    <string name="verify">Verify</string>
+    <string name="resend_code">Resend code</string>
+    <string name="_1_20_min_left">1.20 min left</string>
+    <string name="join_the_hunt">Join the Hunt</string>
+    <string name="sign_up_to_join">Sign up to join</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="i_agree_to_the">I agree to the</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="add_photo">add photo</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="join_with_us">Join With Us</string>
+    <string name="sign_up">Sign up</string>
+
+
+</resources>
